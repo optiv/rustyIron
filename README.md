@@ -2,6 +2,8 @@
 
 This tool represents a communication framework for navigating MobileIron's MDM authentication methods, allowing for account enumeration, single-factor authentication attacks, and message decryption.
 
+Further details of the MobileIron attack surface can be found @ [MobileIron MDM Contains Static Key Allowing Account Enumeration](https://www.optiv.com/explore-optiv-insights/source-zero/mobileiron-mdm-contains-static-key-allowing-account-enumeration)
+
 ```
 $ rustyIron --help
 
